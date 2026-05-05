@@ -1,4 +1,4 @@
-# Cluste-YOLO
+# Cluster-YOLO
 Cluste-YOLO: an object detection framework for rapeseed inflorescence cluster
 
 Shuchen Liu<sup>1,2</sup>, Yunpeng Cui<sup>1,2*</sup>
