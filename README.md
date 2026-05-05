@@ -1,5 +1,5 @@
 # Cluster-YOLO
-Cluste-YOLO: an object detection framework for rapeseed inflorescence cluster
+Cluster-YOLO: an object detection framework for rapeseed inflorescence cluster
 
 Shuchen Liu<sup>1,2</sup>, Yunpeng Cui<sup>1,2*</sup>
 
@@ -21,7 +21,7 @@ The main files are as follows:
 
 Default folder behavior:
 
-- The script loads weights from: weight/Cluste-YOLO.pt
+- The script loads weights from: weight/Cluster-YOLO.pt
 - The script reads images from: samples/input
 - The script saves results to: samples/output
 
